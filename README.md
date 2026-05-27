@@ -9,7 +9,7 @@
 ## About Me
 
 * 🎓 **Maths & Computer Science Student**
-* 📊 Passionate about **Data Exploration, Data Analysis**, and **Proof Engineering** (Lean 4).
+* 📊 Passionate about **Data Exploration, Data Analysis**, and **Proof Engineering**.
 
 ---
 
