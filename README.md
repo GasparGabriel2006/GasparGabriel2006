@@ -42,7 +42,7 @@
 * Practiced proof engineering and formal mathematics to validate programmatic logic.
 * 🛠️ **Tech Stack:** Lean 4, Mathlib.
 
-### 🏋️‍♂️ [Fitness App (UBB Software Engineering Project)](https://github.com/UBB-SE-2026-832-1)
+### 🏋️‍♂️ [Fitness App (UBB Software Engineering Project)](https://github.com/UBB-SE/UBB-SE-2026-832-1)
 * **Team Collaboration:** Worked in a team of 17 utilizing agile structure, tracking tasks, and managing Git workflows (branches, PRs, merge conflicts).
 * **Architecture & UI:** Built a WinUI 3 desktop application using the MVVM architecture for clean separation of concerns.
 * **Data Management:** Designed a local SQL Server database and wrote raw SQL queries for robust data persistence.
