@@ -15,7 +15,7 @@
 
 ## 🔍 Tech Stack
 
-### 💻 Languages & Scripting
+### 💻 Languages
 ![Lean](https://img.shields.io/badge/Lean_4-34495E?style=for-the-badge&logo=lean&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,3 +27,17 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 📊 [Data Exploration & Statistics](https://github.com/GasparGabriel2006/data-exploration)
+* Analyzed large datasets in Python using Pandas and NumPy to clean, filter, and transform raw data.
+* Applied statistical modeling and hypothesis testing to discover correlations and trends within the data.
+* 🛠️ **Tech Stack:** Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn.
+
+### 📐 [Formal Algorithm Verifications (Lean 4)](https://github.com/GasparGabriel2006/Formal-Algorithm-Verifications-Lean)
+* Formal verification of the correctness of a Bubble Sort algorithm implemented in Lean 4, and of other smaller algorithms.
+* Practiced proof engineering and formal mathematics to validate programmatic logic.
+* 🛠️ **Tech Stack:** Lean 4, Mathlib.
